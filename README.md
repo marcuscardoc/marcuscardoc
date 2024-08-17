@@ -3,7 +3,7 @@
 )](https://instagram.com/marcuscardoc/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-cardoso-87ba562b5/)
 
-## Tecnologias que uso
+## Tecnologias proeficientes
 <div style="display: inline_nlock"><br/>
 <img align="center alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
